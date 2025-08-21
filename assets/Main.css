@@ -1,0 +1,17 @@
+
+.css-6od3lo-MuiChip-label {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+    white-space: nowrap;
+    width: 65px !important;
+}
+
+.css-phksla-MuiInputBase-root-MuiFilledInput-root{
+    width: 140% !important;
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{
+    padding: 5px !important;
+}
+
